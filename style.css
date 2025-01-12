@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse; 
+    border: 1px solid lightgrey; 
+    margin: 10px; 
+    text-align: center; 
+    font-size: 20px;"
+}
+
+body h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+td {
+    background-color: olive; 
+    color: white; 
+    padding: 0px; 
+}
+
+.A {
+    background-color: olive; 
+    color: white; 
+    border: 1px solid lightgrey;
+}
+
+.B {
+    background-color: burlywood; 
+    color: black; 
+    padding: 5px; 
+    border: 1px solid lightgrey;
+}
+
+.C {
+background-color: white;
+color: black; 
+padding: 5px; 
+border: 1px solid lightgrey;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
